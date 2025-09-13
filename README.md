@@ -70,10 +70,10 @@ Copy code
 ├── README.md                           # Project documentation  
 └── requirements.txt                    # Python dependencies (optional)  
 ```
-⚠️ Disclaimer
+# ⚠️ Disclaimer
 This project is for educational and research purposes only.
 The dataset represents anonymized retail sales transactions and should not be used to make assumptions about individuals or companies.
 The analysis is intended to explore sales patterns, not to provide deterministic conclusions.
 
-📄 License
+# 📄 License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
