@@ -1,4 +1,9 @@
 # 🛍️ Retail Sales Analysis
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
 Status: Active Jupyter Notebook  
 Visit the project notebook for full analysis: [Notebook Link]  
 
