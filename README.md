@@ -53,12 +53,13 @@ Copy code
 ```bash
 git clone https://github.com/your-username/retail-sales-analysis.git
 cd retail-sales-analysis
+```
 Start Jupyter Notebook:
 bash
 Copy code
 jupyter notebook
 Open the file Retail Sales Analysis.ipynb and run all cells.
-```
+
 **📁 Project Structure**
 ```bash
 python
